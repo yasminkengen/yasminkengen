@@ -41,6 +41,3 @@ Um site responsivo e moderno para mostrar meus projetos, habilidades e experiên
 ---
 
 Obrigada por visitar meu perfil! Você é incrível! 🌸😊
-
-Atualiza README do perfil com apresentação e badges
-
