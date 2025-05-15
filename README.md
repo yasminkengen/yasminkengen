@@ -12,7 +12,7 @@ Busco minha primeira oportunidade na área como desenvolvedora júnior ou estagi
 
 ## 🚀 Tecnologias & Skills
 
-- ✨ JavaScript (ES6+)
+- ✨ JavaScript 
 - 🌿 React.js
 - ⚡ Node.js & Express.js
 - 🖌️ HTML5 & CSS3
