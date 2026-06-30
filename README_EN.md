@@ -102,20 +102,6 @@ Including:
 
 ---
 
-# 📂 Repositories
-
-Here you'll find projects related to:
-
-- 📊 Dashboards
-- 📈 Financial Management
-- 📋 Smart Spreadsheets
-- 📁 Process Organization
-- 🌐 Professional Portfolio
-- 📚 Studies
-- 📄 Documentation
-
----
-
 # 🌱 Continuous Learning
 
 I'm constantly improving my skills in:
